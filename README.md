@@ -1,18 +1,14 @@
-# Vagrant boxes (Debian)
----
+# Vagrant boxes (Debian 7 wheezy and 8 jessie 64-bit version)
 
 ## Base boxse
----
 
 *Please note these boxes are configurated for Danish keymap and mirrors.*
 
 ## LAMP boxes
----
 
 *Please note these boxes are configurated for Danish keymap, mirrors, timezone, and common European/Scandinavian locales.*
 
 ## Credentials
----
 
 Username: vagrant
 
@@ -23,6 +19,5 @@ MySQL username: root
 MySQL password: test
 
 ## License
----
 
 MIT
